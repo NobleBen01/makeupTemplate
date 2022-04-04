@@ -18,3 +18,17 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.carousel-item {
+  box-sizing: content-box;
+  display: block;
+  flex: none;
+  scroll-snap-align: start;
+}
+@media screen and (max-width: 880px) {
+  .w-3\/6 {
+    width: 100%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}

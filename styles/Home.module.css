@@ -108,13 +108,6 @@
   margin-left: 0.5rem;
 }
 
-@media (max-width: 600px) {
-  .grid {
-    width: 100%;
-    flex-direction: column;
-  }
-}
-
 .intro {
   background: url("/x-sLGYaQ_stMM.jpg");
   height: 40rem;

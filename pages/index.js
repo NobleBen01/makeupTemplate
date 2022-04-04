@@ -15,21 +15,11 @@ export default function Home() {
       <FadeInWhenVisible>
         <Home1 />
       </FadeInWhenVisible>
-      <FadeInWhenVisible>
-        <About />
-      </FadeInWhenVisible>
-      <FadeInWhenVisible>
-        <Services />
-      </FadeInWhenVisible>
-      <FadeInWhenVisible>
-        <Gallery />
-      </FadeInWhenVisible>
-      <FadeInWhenVisible>
-        <Testimonials />
-      </FadeInWhenVisible>
-      <FadeInWhenVisible>
-        <Contacts />
-      </FadeInWhenVisible>
+      <About />
+      <Services />
+      <Gallery />
+      <Testimonials />
+      <Contacts />
       <Footer />
     </>
   );

@@ -9,9 +9,9 @@ const slideLeft = {
 
 function Home1() {
   return (
-    <div className={styles.intro} id="home">
+    <section className={styles.intro} id="home">
       <SlideLeft>
-        <div>
+        <div className="pb-10">
           <h1 className="text-slate-50 text-6xl text-left pt-72">
             <ShadowOnHover>
               <span> Belen Ava</span>
@@ -25,7 +25,7 @@ function Home1() {
           </h3>
         </div>
       </SlideLeft>
-    </div>
+    </section>
   );
 }
 
