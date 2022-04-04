@@ -114,3 +114,44 @@
     flex-direction: column;
   }
 }
+
+.intro {
+  background: url("/x-sLGYaQ_stMM.jpg");
+  height: 40rem;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.bgAbout {
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  padding-bottom: 5rem;
+}
+.bgServices {
+  background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+  padding-bottom: 5rem;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdownContent {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdownContent a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown:hover .dropdownContent {
+  display: block;
+}
