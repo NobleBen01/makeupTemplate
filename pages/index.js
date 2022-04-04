@@ -1,12 +1,12 @@
-import Home1 from "../Components/home";
-import Services from "../Components/service";
-import About from "../Components/about";
-import Gallery from "../Components/gallery";
-import Testimonials from "../Components/testimonial";
-import Navbar from "../Components/Navbar";
-import Contacts from "../Components/contacts";
-import Footer from "../Components/footer";
-import { FadeInWhenVisible } from "../Components/animate";
+import Home1 from "../components/home";
+import Services from "../components/service";
+import About from "../components/about";
+import Gallery from "../components/gallery";
+import Testimonials from "../components/testimonial";
+import Navbar from "../components/Navbar";
+import Contacts from "../components/contacts";
+import Footer from "../components/footer";
+import { FadeInWhenVisible } from "../components/animate";
 
 export default function Home() {
   return (
