@@ -28,7 +28,7 @@ function About() {
         <div className="flex-none text-xl text-left w-3/6 p-10">
           <SlideLeft>
             <p>
-              Hello, I'm Olivia a Professional Makeup Artist. Quisque luctus
+              Hello, i am Olivia a Professional Makeup Artist. Quisque luctus
               tincidunt enim dapibus pharetra neue ultricies at. Morbi dapibus
               mauris id scelerisque placerat nula massa lacinia orci in
               facilisis nulla quam volutpat lectus. Nunc elementum ante commodo
