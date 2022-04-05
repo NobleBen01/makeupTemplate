@@ -11,7 +11,7 @@ function Home1() {
   return (
     <section className={styles.intro} id="home">
       <SlideLeft>
-        <div className="pb-10">
+        <div>
           <h1 className="text-slate-50 text-6xl text-left pt-72">
             <ShadowOnHover>
               <span> Belen Ava</span>

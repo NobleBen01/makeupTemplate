@@ -11,9 +11,14 @@ function Contacts() {
         <h1 className="text-4xl text-center pt-10">Contact Us</h1>
       </FadeInWhenVisible1>
       <div className="flex flex-wrap justify-around">
-        <div className="card w-60 bg-base-100 h-72 shadow-xl flex-none rounded-none mx-20 mt-2 hover:bg-blue-200">
+        <div className="card w-60 bg-base-100 h-72 shadow-xl flex-none rounded-none bg-gray-500 mx-20 mt-2 hover:bg-blue-200">
           <figure className="px-5 py-5 hover:scale-105">
-            <Image src="/mehdi-zegna.jpg" alt="home" height="300" width="250" />
+            <Image
+              src="/element5-digital.jpg"
+              alt="home"
+              height="300"
+              width="250"
+            />
           </figure>
         </div>
         <div className="mx-20 text-lg flex-initial mt-10">

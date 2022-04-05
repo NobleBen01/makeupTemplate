@@ -14,7 +14,7 @@ function Gallery() {
         <div className="flex-none m-7">
           <SlideUp>
             <Image
-              src="/oliver-johnson.jpg"
+              src="/terricks-noah.jpg"
               alt="home"
               height="350"
               width="300"
@@ -25,7 +25,7 @@ function Gallery() {
         <div className="flex-none m-7">
           <SlideUp>
             <Image
-              src="/oliver-johnson.jpg"
+              src="/cesar-la-rosa.jpg"
               alt="home"
               height="350"
               width="300"
@@ -36,7 +36,7 @@ function Gallery() {
         <div className="flex-none m-7">
           <SlideUp>
             <Image
-              src="/oliver-johnson.jpg"
+              src="/terricks-noah-8.jpg"
               alt="home"
               height="350"
               width="300"
