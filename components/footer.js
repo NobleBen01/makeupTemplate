@@ -52,7 +52,7 @@ function Footer() {
         </div>
       </div>
       <div>
-        <p>Copyright © 2022 - Alagbu Somtockuwu</p>
+        <p>Copyright © 2022 - Benneth Noble</p>
       </div>
     </footer>
   );
